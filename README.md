@@ -86,29 +86,47 @@ testing systems and developing my own tools.
 
 ### Cybersecurity
 
-#### 🔎 Reconnaissance & Scanning
+#### 🔎 Reconnaissance & Enumeration
 
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white">
+<img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/theHarvester-222222?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Angry_IP_Scanner-333333?style=for-the-badge&logoColor=white">
 
-#### 🌐 Network Analysis
+#### 🌐 Network Analysis & Security
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Kismet-333333?style=for-the-badge&logo=wifi&logoColor=white">
+<img src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white">
 
-#### 🕷️ Web Security
+#### 🕷️ Web Security & Vulnerability Scanning
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Nikto-333333?style=for-the-badge&logoColor=white">
 
 #### 🩸 Pentesting & Active Directory
 
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
 <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=bloodhound&logoColor=white">
+<img src="https://img.shields.io/badge/CrackMapExec-222222?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Mimikatz-333333?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Cobalt_Strike-222222?style=for-the-badge&logoColor=white">
+
+#### 🔑 Password & Credential Security
+
+<img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logoColor=white">
+
+#### 📡 Wireless Security
+
 <img src="https://img.shields.io/badge/Wifite-222222?style=for-the-badge&logo=wifi&logoColor=white">
+<img src="https://img.shields.io/badge/Kismet-333333?style=for-the-badge&logo=wifi&logoColor=white">
 
 #### 🧭 OSINT
 
 <img src="https://img.shields.io/badge/Maltego-1F1F1F?style=for-the-badge&logo=maltego&logoColor=white">
+<img src="https://img.shields.io/badge/theHarvester-222222?style=for-the-badge&logoColor=white">
 
 </div>
 
@@ -125,6 +143,8 @@ testing systems and developing my own tools.
 | 🌍 Web Security | Web application testing & vulnerability research |
 | 🩸 Pentesting | Security testing & controlled exploitation |
 | 🏢 Active Directory | Enumeration, attack paths & security analysis |
+| 🔑 Credential Security | Password auditing & credential analysis |
+| 📡 Wireless | Wireless network analysis & security testing |
 | 🧭 OSINT | Open-source intelligence & information gathering |
 | 🛡️ Defense | Detection, monitoring & incident response |
 | 🤖 AI Security | Behavioral analysis & anomaly detection |
