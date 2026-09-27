@@ -1,88 +1,51 @@
 <div align="center">
 
-# Hey, I'm Hazel! 
+<img src="./Hazel.gif" width="550">
 
-### Cybersecurity • Homelab • Networking • Linux
+# Aiko
 
-<div align="center">
+### Cybersecurity • Networking • Linux • Homelab
 
-<img src="./Hazel.gif" width="500">
+`Security enthusiast building, breaking and securing things.`
 
-</div>
+<br>
 
-
-
-
-> "Detect. Analyze. Isolate."
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `> whoami`
 
-I'm a cybersecurity enthusiast interested in:
+I'm a cybersecurity enthusiast interested in understanding how systems,
+networks and applications work — and how they can be secured.
 
-- 🔐 Cybersecurity & ethical hacking
-- 🌐 Networking & network security
+My main interests are:
+
+- 🔐 Cybersecurity
+- 🌐 Networking
 - 🐧 Linux
-- 🖥️ Homelabs & virtualization
-- 🛡️ Firewalls & intrusion detection
-- 🤖 AI-assisted security
-- 🔎 Bug bounty & web security
-- ⚙️ Automation and infrastructure
+- 🏠 Homelabs
+- 🛡️ Network Security
+- 🔎 Web Security
+- 🤖 AI-assisted Security
+- ⚙️ Automation
 
-I enjoy learning by building things, breaking them, and figuring out how to secure them.
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Systems
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
-### 🔐 Cybersecurity
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-
-### 💻 Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I prefer learning through practical experimentation, building labs,
+testing systems and developing my own tools.
 
 ---
 
-## 🏠 Homelab
+## `> skills`
 
-Currently experimenting with:
+### Security
 
 ```text
-┌─────────────────────────────┐
-│           HOMELAB           │
-├─────────────────────────────┤
-│                             │
-│  Proxmox                    │
-│     ├── Linux VMs           │
-│     ├── Security Labs       │
-│     └── Infrastructure      │
-│                             │
-│  Networking                 │
-│     ├── VLANs               │
-│     ├── Firewalling         │
-│     ├── Tailscale           │
-│     └── Monitoring          │
-│                             │
-│  Security                   │
-│     ├── Nmap                │
-│     ├── Burp Suite          │
-│     ├── Web Security        │
-│     └── Threat Detection    │
-│                             │
-└─────────────────────────────┘
+Web Security       ███████████████░░░░░
+Network Security   ███████████████░░░░░
+Reconnaissance     ██████████████░░░░░░
+Threat Detection   ████████████░░░░░░░░
