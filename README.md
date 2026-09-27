@@ -1,7 +1,7 @@
 <div align="center">
 
 <video autoplay loop muted playsinline width="550">
-  <source src="./banner.gif" type="video/mp4">
+  <source src="./banner.mp4" type="video/mp4">
 </video>
 
 # Hazel
