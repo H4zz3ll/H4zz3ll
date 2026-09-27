@@ -1,9 +1,8 @@
 <div align="center">
 
-<video autoplay loop muted playsinline width="550">
-  <source src="./banner.mp4" type="video/mp4">
-</video>
-
+<div align="center">
+  <img src="./banner.gif" width="550">
+</div>
 # Hazel
 
 ### Cybersecurity • Networking • Linux • Homelab
