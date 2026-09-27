@@ -4,9 +4,11 @@
 
 ### Cybersecurity • Homelab • Networking • Linux
 
-<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/25593100_rDU0IP3ax8gkvkB.gif" width="500">
+<div align="center">
 
-<br>
+<img src="./Hazel.gif" width="500">
+
+</div>
 
 > "Detect. Analyze. Isolate."
 
