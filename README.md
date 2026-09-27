@@ -2,7 +2,7 @@
 
 <img src="./Hazel.gif" width="550">
 
-# Aiko
+# Hazel
 
 ### Cybersecurity • Networking • Linux • Homelab
 
