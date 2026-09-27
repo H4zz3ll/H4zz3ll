@@ -10,10 +10,10 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
@@ -40,48 +40,65 @@ testing systems and developing my own tools.
 
 ---
 
-## `> skills`
+## `> technologies`
 
-### Security
+<div align="center">
 
-```text
-Web Security       ███████████████░░░░░
-Network Security   ███████████████░░░░░
-Reconnaissance     ██████████████░░░░░░
-Threat Detection   ████████████░░░░░░░░
+### Operating Systems & Infrastructure
 
-Technologies
-<p align="left"> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"> 
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> 
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> 
-<br> 
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+### Development
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+### Cybersecurity
+
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white">
-<img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white"> </p>
+<img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white">
 
-Things I experiment with:
+</div>
 
-Virtual machines
-Network segmentation
-Firewalls
-Linux servers
-Monitoring
-Remote access
-Security testing
+---
 
-> currently_learning
-[+] Cybersecurity
-[+] Networking
-[+] Linux
-[+] Web Security
-[+] Python
-[+] System Administration
-[+] Network Defense
-[+] Threat Detection
-[ ] Machine Learning
+## `> focus`
+
+| Area | Focus |
+|---|---|
+| 🔐 Cybersecurity | Web security, network security & defensive security |
+| 🌐 Networking | TCP/IP, segmentation, firewalls & infrastructure |
+| 🐧 Linux | Linux administration, servers & security |
+| 🔎 Web Security | Reconnaissance, testing & vulnerability research |
+| 🛡️ Defense | Detection, monitoring & incident response |
+| 🤖 AI Security | Behavioral analysis & anomaly detection |
+
+---
+
+## `> homelab`
+
+I use my homelab to experiment with infrastructure, networking and
+cybersecurity.
+
+```text
+                    ┌─────────────────┐
+                    │     HOMELAB     │
+                    └────────┬────────┘
+                             │
+                ┌────────────┼────────────┐
+                │            │            │
+             Linux        Proxmox      Network
+                │            │            │
+             Security       VMs       Firewall
+                │            │            │
+             Testing     Services      VLANs
+                │            │            │
+                └────────────┼────────────┘
+                             │
+                         Monitoring
