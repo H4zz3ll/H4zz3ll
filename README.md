@@ -86,9 +86,29 @@ testing systems and developing my own tools.
 
 ### Cybersecurity
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+#### 🔎 Reconnaissance & Scanning
+
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white">
+<img src="https://img.shields.io/badge/Angry_IP_Scanner-333333?style=for-the-badge&logoColor=white">
+
+#### 🌐 Network Analysis
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white">
+
+#### 🕷️ Web Security
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+
+#### 🩸 Pentesting & Active Directory
+
+<img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=bloodhound&logoColor=white">
+<img src="https://img.shields.io/badge/Wifite-222222?style=for-the-badge&logo=wifi&logoColor=white">
+
+#### 🧭 OSINT
+
+<img src="https://img.shields.io/badge/Maltego-1F1F1F?style=for-the-badge&logo=maltego&logoColor=white">
 
 </div>
 
@@ -98,10 +118,14 @@ testing systems and developing my own tools.
 
 | Area | Focus |
 |---|---|
-| 🔐 Cybersecurity | Web security, network security & defensive security |
+| 🔐 Cybersecurity | Offensive & defensive security |
 | 🌐 Networking | TCP/IP, segmentation, firewalls & infrastructure |
 | 🐧 Linux | Linux administration, servers & security |
-| 🔎 Web Security | Reconnaissance, testing & vulnerability research |
+| 🔎 Reconnaissance | Network discovery, enumeration & information gathering |
+| 🌍 Web Security | Web application testing & vulnerability research |
+| 🩸 Pentesting | Security testing & controlled exploitation |
+| 🏢 Active Directory | Enumeration, attack paths & security analysis |
+| 🧭 OSINT | Open-source intelligence & information gathering |
 | 🛡️ Defense | Detection, monitoring & incident response |
 | 🤖 AI Security | Behavioral analysis & anomaly detection |
 
