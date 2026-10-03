@@ -4,7 +4,7 @@
   <img src="./banner.gif" width="550">
 </div>
 
-# Hazel
+# Zer00
 
 ### Cybersecurity • Networking • Linux • Homelab
 
